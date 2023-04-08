@@ -1,0 +1,16 @@
+12 15
+cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5cynicalTuna5 temp1.txt float double char int
+cheerfulPup3 temp1.txt float int char char float double int double
+mildIcecream8 temp4.txt double float int int float float int double char int char char char double float double
+adoringBurritos8 temp0.txt double int char float double float char int
+abjectMagpie0 temp0.txt double char float int
+grumpyWigeon4 temp0.txt char double float float char char int float float int float float int int int float double double int double double double float char char char int double double int char double char float char int double char float int
+abjectMagpie0 temp0.txt char float float char char int float char double double char int char float double double int char char int char float double double float float int double double double int char double float int int float int float int
+wearyChough5 temp0.txt double int char double int int float double char double char int int double char char double float double int float double float double double char float char int float int float char char int int float char float float
+stressedTermite6 temp4.txt char float int double double int float int double double int int char char double double float float float char float double char double float int int float int char char char
+importedMallard2 temp0.txt int double double int char float char double char char double char double float int float float char float double float char float int int int double int
+humorousRat9 temp2.txt float int float char float double float char int double int double char char int int float double char double
+abjectMagpie0 temp0.txt int char int double int int char float float int double float double double float double char float char double char int char float
+ardentRhino9 temp5.txt double char double int double int int float double char int float double int float float float char char char
+wearyChough5 temp3.txt double float int int double char double int int char char char double float float double float int float int double double double float char char float char int float char int double int float char
+artisticCaviar1 temp0.txt double char int float
